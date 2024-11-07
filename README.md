@@ -1,7 +1,8 @@
 # Hello, I'm Mauricio.
 **I'm currently studying Computer Engineering**
 
-Check out my personal proyects\n
+Check out my personal proyects
+
 In this profile I share coding proyects and programs I've developed
 
 ### Tech Stack
