@@ -1,11 +1,7 @@
 # Hello, I'm Mauricio.
-**I'm currently studying Computer Engineering**
+**I'm currently studying Computer Engineering at Universidad de Guadalajara**
 
-Check out my personal proyects:
-
-_**https://m4uawa.github.io/**_
-
-In this profile I share coding proyects and programs I've developed.
+In this profile I'll share coding proyects and programs I've developed.
 I also like everything low level related >.<
 
 ### Tech Stack
