@@ -5,7 +5,7 @@
 
 In this profile I'll share coding proyects and programs I've developed.
 I mostly program on Python or C++. 
-I also admire everything low level related >.<
+I also admire everything low level related 
 
 ---
 <h2 align="center">Tech Stack</h2>
