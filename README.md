@@ -1,10 +1,10 @@
 <h1 align="center">&emsp;<br/><samp>0<sup>10</sup>1<sub>11</sub>1<sup>00</sup>0<sub>10</sub>1&emsp;&emsp;&emsp;I'm Maun. Hi!&emsp;&emsp;&emsp;1<sub>11</sub>1<sup>00</sup>0<sub>10</sub>1<sup>10</sup>1<br/>&emsp;</samp></h1>
 
 **I'm currently studying Computer Engineering at University of Guadalajara.**
->**I like Digital Systems, GUI designing and programming, Assembly Code and OS development.**
+>**I like Digital Systems, GUI designing and programming, and OS development.**
 
 In this profile I'll share coding proyects and programs I've developed.
-I mostly program on Python or C++. 
+I mostly program on Python. 
 I also admire everything low level related 
 
 ---
